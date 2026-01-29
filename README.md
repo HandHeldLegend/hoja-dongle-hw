@@ -5,3 +5,5 @@ This is essentially a Pico 2 W in a more compact form-factor, with a USB-C conne
 These pins use logic level translation to ensure that 5V on the pins will not damage the RP2354A Microcontroller.
 
 Since the RM2 module is Wifi and Bluetooth capable, this could be used in many other interesting ways. 
+
+<img width="744" height="902" alt="image" src="https://github.com/user-attachments/assets/a0b8f54d-bcbb-4f1f-92db-934ad3dcb8a0" />
