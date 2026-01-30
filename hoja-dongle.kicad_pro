@@ -517,8 +517,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../Production/Main_S1/gerber/",
-      "pos_files": "../../Production/Main_S1/position/",
+      "plot": "production/gerbers/",
+      "pos_files": "production/position/",
       "specctra_dsn": "",
       "step": "../../../../Downloads/UGC_S1_Main.step",
       "svg": "",
@@ -528,7 +528,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "..\\..\\Production\\Main_S1\\UGC_Main_S1.csv",
+    "bom_export_filename": "production\\hoja-dongle.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -751,6 +751,30 @@
           "group_by": false,
           "label": "Reviewed",
           "name": "Reviewed",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SNAPEDA_PN",
+          "name": "SNAPEDA_PN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "USBDNP",
+          "name": "USBDNP",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MP",
+          "name": "MP",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description_1",
+          "name": "Description_1",
           "show": false
         }
       ],
